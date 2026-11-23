@@ -312,3 +312,13 @@ I practiced using `SELECT`, `WHERE`, `ORDER BY`, `COUNT`, `GROUP BY`, and `HAVIN
 One important lesson was understanding how SQL can transform large datasets into useful marketing insights. For example, counting purchase events and identifying frequently occurring event types can help businesses evaluate website activity and customer engagement.
 
 These skills will be useful for future marketing analytics projects involving Google BigQuery and GA4.
+
+# Published Project Links
+
+## GitHub Pages
+
+[View My BigQuery SQL Lecture 1 Report](https://tarana7.github.io/bigquery-lecture-1/)
+
+## GitHub Repository
+
+[View My BigQuery Lecture 1 GitHub Repository](https://github.com/tarana7/bigquery-lecture-1)
